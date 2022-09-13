@@ -1,6 +1,4 @@
-package lab2.Decorator;
-
-import lab2.Decorator.Beverage;
+package lab2.Pattern_Decorator;
 
 public class HouseBlend extends Beverage {
     public HouseBlend(){

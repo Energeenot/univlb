@@ -1,6 +1,4 @@
-package lab1.base;
-
-import lab1.base.FishBehavior;
+package lab1.Pattern_Strategy;
 
 public class FishWithFishingRod implements FishBehavior {
     int countOfFishCaught = random.nextInt(7);

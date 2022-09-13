@@ -1,6 +1,4 @@
-package lab2.Decorator;
-
-import lab2.Decorator.Beverage;
+package lab2.Pattern_Decorator;
 
 public abstract class CondimentDecorator extends Beverage {
     public Beverage beverage;

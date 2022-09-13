@@ -1,4 +1,4 @@
-package lab2.Decorator;
+package lab2.Pattern_Decorator;
 
 public abstract class Beverage {
     public enum Size{TALL, GRANDE, VENTI};

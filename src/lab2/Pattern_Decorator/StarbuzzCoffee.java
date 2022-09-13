@@ -1,4 +1,4 @@
-package lab2.Decorator;
+package lab2.Pattern_Decorator;
 
 public class StarbuzzCoffee {
     public static void main(String[] args) {

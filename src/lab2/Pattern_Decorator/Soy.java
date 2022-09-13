@@ -1,7 +1,4 @@
-package lab2.Decorator;
-
-import lab2.Decorator.Beverage;
-import lab2.Decorator.CondimentDecorator;
+package lab2.Pattern_Decorator;
 
 public class Soy extends CondimentDecorator {
 //    Beverage beverage;

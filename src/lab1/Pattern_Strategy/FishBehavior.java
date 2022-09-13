@@ -1,4 +1,4 @@
-package lab1.base;
+package lab1.Pattern_Strategy;
 
 import java.util.Random;
 

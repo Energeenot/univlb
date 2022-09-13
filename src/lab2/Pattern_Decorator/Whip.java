@@ -1,15 +1,11 @@
-package lab2.Decorator;
+package lab2.Pattern_Decorator;
 
-import lab2.Decorator.Beverage;
-import lab2.Decorator.CondimentDecorator;
-
-public class Mocha extends CondimentDecorator {
+public class Whip extends CondimentDecorator {
 //    Beverage beverage;
 
-    public Mocha(Beverage beverage){
+    public Whip(Beverage beverage){
         this.beverage = beverage;
     }
-
     @Override
     public double cost() {
         double cost = beverage.cost();
@@ -27,6 +23,6 @@ public class Mocha extends CondimentDecorator {
 
     @Override
     public String getDescription() {
-        return beverage.getDescription() + ", Mocha";
+        return beverage.getDescription() + ", Whip";
     }
 }

@@ -63,7 +63,7 @@
 											"top": 47,
 											"width": 295.15966796875,
 											"height": 13,
-											"text": "lab1.base.Fisherman"
+											"text": "lab1.Pattern_Strategy.Fisherman"
 										},
 										{
 											"_type": "LabelView",
@@ -149,7 +149,7 @@
 											"top": 95,
 											"width": 295.15966796875,
 											"height": 13,
-											"text": "«constructor»+lab1.base.Fisherman()",
+											"text": "«constructor»+lab1.Pattern_Strategy.Fisherman()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -200,7 +200,7 @@
 											"top": 140,
 											"width": 295.15966796875,
 											"height": 13,
-											"text": "+setFishBehavior(fishBehavior: lab1.base.FishBehavior): void",
+											"text": "+setFishBehavior(fishBehavior: lab1.Pattern_Strategy.FishBehavior): void",
 											"horizontalAlignment": 0
 										}
 									],
@@ -309,7 +309,7 @@
 											"top": 239,
 											"width": 238.77978515625,
 											"height": 13,
-											"text": "lab1.base.FishermanWhatCantFish"
+											"text": "lab1.Pattern_Strategy.FishermanWhatCantFish"
 										},
 										{
 											"_type": "LabelView",
@@ -395,7 +395,7 @@
 											"top": 287,
 											"width": 238.77978515625,
 											"height": 13,
-											"text": "«constructor»+lab1.base.FishermanWhatCantFish()",
+											"text": "«constructor»+lab1.Pattern_Strategy.FishermanWhatCantFish()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -615,7 +615,7 @@
 											"top": 239,
 											"width": 248.17431640625,
 											"height": 13,
-											"text": "lab1.base.FishermanWithFishingRod"
+											"text": "lab1.Pattern_Strategy.FishermanWithFishingRod"
 										},
 										{
 											"_type": "LabelView",
@@ -701,7 +701,7 @@
 											"top": 287,
 											"width": 248.17431640625,
 											"height": 13,
-											"text": "«constructor»+lab1.base.FishermanWithFishingRod()",
+											"text": "«constructor»+lab1.Pattern_Strategy.FishermanWithFishingRod()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -921,7 +921,7 @@
 											"top": 343,
 											"width": 233.01611328125,
 											"height": 13,
-											"text": "lab1.base.FishermanWithSpinning"
+											"text": "lab1.Pattern_Strategy.FishermanWithSpinning"
 										},
 										{
 											"_type": "LabelView",
@@ -1007,7 +1007,7 @@
 											"top": 391,
 											"width": 233.01611328125,
 											"height": 13,
-											"text": "«constructor»+lab1.base.FishermanWithSpinning()",
+											"text": "«constructor»+lab1.Pattern_Strategy.FishermanWithSpinning()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1227,7 +1227,7 @@
 											"top": 159,
 											"width": 140.5498046875,
 											"height": 13,
-											"text": "lab1.base.FishWithFishingRod"
+											"text": "lab1.Pattern_Strategy.FishWithFishingRod"
 										},
 										{
 											"_type": "LabelView",
@@ -1458,7 +1458,7 @@
 											"top": 255,
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "lab1.base.FishNoWay"
+											"text": "lab1.Pattern_Strategy.FishNoWay"
 										},
 										{
 											"_type": "LabelView",
@@ -1653,7 +1653,7 @@
 											"top": 31,
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "lab1.base.FishWithSpinning"
+											"text": "lab1.Pattern_Strategy.FishWithSpinning"
 										},
 										{
 											"_type": "LabelView",
@@ -1868,7 +1868,7 @@
 											"top": 132,
 											"width": 114.13720703125,
 											"height": 13,
-											"text": "lab1.base.FishBehavior"
+											"text": "lab1.Pattern_Strategy.FishBehavior"
 										},
 										{
 											"_type": "LabelView",
@@ -2595,7 +2595,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGDCeHGo1UqYsE="
 					},
-					"name": "lab1.base.FishBehavior",
+					"name": "lab1.Pattern_Strategy.FishBehavior",
 					"operations": [
 						{
 							"_type": "UMLOperation",
@@ -2624,7 +2624,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGDCeHGo1UqYsE="
 					},
-					"name": "lab1.base.Fisherman",
+					"name": "lab1.Pattern_Strategy.Fisherman",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -2665,7 +2665,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGDCeHG01Uue30="
 							},
-							"name": "lab1.base.Fisherman",
+							"name": "lab1.Pattern_Strategy.Fisherman",
 							"stereotype": "constructor"
 						},
 						{
@@ -2746,7 +2746,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGDCeHGo1UqYsE="
 					},
-					"name": "lab1.base.FishermanWhatCantFish",
+					"name": "lab1.Pattern_Strategy.FishermanWhatCantFish",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -2769,7 +2769,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGDCeHG2lU35Ks="
 							},
-							"name": "lab1.base.FishermanWhatCantFish",
+							"name": "lab1.Pattern_Strategy.FishermanWhatCantFish",
 							"stereotype": "constructor"
 						},
 						{
@@ -2799,7 +2799,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGDCeHGo1UqYsE="
 					},
-					"name": "lab1.base.FishermanWithFishingRod",
+					"name": "lab1.Pattern_Strategy.FishermanWithFishingRod",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -2822,7 +2822,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGDCeHG21U7C/4="
 							},
-							"name": "lab1.base.FishermanWithFishingRod",
+							"name": "lab1.Pattern_Strategy.FishermanWithFishingRod",
 							"stereotype": "constructor"
 						},
 						{
@@ -2852,7 +2852,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGDCeHGo1UqYsE="
 					},
-					"name": "lab1.base.FishermanWithSpinning",
+					"name": "lab1.Pattern_Strategy.FishermanWithSpinning",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -2875,7 +2875,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGDCeHG3FU/6zk="
 							},
-							"name": "lab1.base.FishermanWithSpinning",
+							"name": "lab1.Pattern_Strategy.FishermanWithSpinning",
 							"stereotype": "constructor"
 						},
 						{
@@ -2905,7 +2905,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGDCeHGo1UqYsE="
 					},
-					"name": "lab1.base.FishNoWay",
+					"name": "lab1.Pattern_Strategy.FishNoWay",
 					"ownedElements": [
 						{
 							"_type": "UMLInterfaceRealization",
@@ -2950,7 +2950,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGDCeHGo1UqYsE="
 					},
-					"name": "lab1.base.FishWithFishingRod",
+					"name": "lab1.Pattern_Strategy.FishWithFishingRod",
 					"ownedElements": [
 						{
 							"_type": "UMLInterfaceRealization",
@@ -3018,7 +3018,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGDCeHGo1UqYsE="
 					},
-					"name": "lab1.base.FishWithSpinning",
+					"name": "lab1.Pattern_Strategy.FishWithSpinning",
 					"ownedElements": [
 						{
 							"_type": "UMLInterfaceRealization",
@@ -3076,7 +3076,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGDCeHGo1UqYsE="
 					},
-					"name": "lab1.base.test",
+					"name": "lab1.Pattern_Strategy.test",
 					"operations": [
 						{
 							"_type": "UMLOperation",
@@ -3177,7 +3177,7 @@
 											"top": 55.5,
 											"width": 74.39453125,
 											"height": 13,
-											"text": "lab1.base.FishBehavior"
+											"text": "lab1.Pattern_Strategy.FishBehavior"
 										},
 										{
 											"_type": "LabelView",
@@ -3363,7 +3363,7 @@
 											"top": 149.5,
 											"width": 59.24267578125,
 											"height": 13,
-											"text": "lab1.base.Fisherman"
+											"text": "lab1.Pattern_Strategy.Fisherman"
 										},
 										{
 											"_type": "LabelView",
@@ -3445,7 +3445,7 @@
 											"top": 5,
 											"width": 274.5234375,
 											"height": 13,
-											"text": "«constructor»+lab1.base.Fisherman()",
+											"text": "«constructor»+lab1.Pattern_Strategy.Fisherman()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -3496,7 +3496,7 @@
 											"top": 50,
 											"width": 274.5234375,
 											"height": 13,
-											"text": "+setFishBehavior(fishBehavior: lab1.base.FishBehavior): void",
+											"text": "+setFishBehavior(fishBehavior: lab1.Pattern_Strategy.FishBehavior): void",
 											"horizontalAlignment": 0
 										}
 									],
@@ -3599,7 +3599,7 @@
 											"top": 132,
 											"width": 142.2890625,
 											"height": 13,
-											"text": "lab1.base.FishermanWhatCantFish"
+											"text": "lab1.Pattern_Strategy.FishermanWhatCantFish"
 										},
 										{
 											"_type": "LabelView",
@@ -3681,7 +3681,7 @@
 											"top": 5,
 											"width": 217.4580078125,
 											"height": 13,
-											"text": "«constructor»+lab1.base.FishermanWhatCantFish()",
+											"text": "«constructor»+lab1.Pattern_Strategy.FishermanWhatCantFish()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -3801,7 +3801,7 @@
 											"top": 167,
 											"width": 152.1787109375,
 											"height": 13,
-											"text": "lab1.base.FishermanWithFishingRod"
+											"text": "lab1.Pattern_Strategy.FishermanWithFishingRod"
 										},
 										{
 											"_type": "LabelView",
@@ -3883,7 +3883,7 @@
 											"top": 5,
 											"width": 228.50927734375,
 											"height": 13,
-											"text": "«constructor»+lab1.base.FishermanWithFishingRod()",
+											"text": "«constructor»+lab1.Pattern_Strategy.FishermanWithFishingRod()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -4003,7 +4003,7 @@
 											"top": 202,
 											"width": 137.75048828125,
 											"height": 13,
-											"text": "lab1.base.FishermanWithSpinning"
+											"text": "lab1.Pattern_Strategy.FishermanWithSpinning"
 										},
 										{
 											"_type": "LabelView",
@@ -4085,7 +4085,7 @@
 											"top": 5,
 											"width": 214.779296875,
 											"height": 13,
-											"text": "«constructor»+lab1.base.FishermanWithSpinning()",
+											"text": "«constructor»+lab1.Pattern_Strategy.FishermanWithSpinning()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -4205,7 +4205,7 @@
 											"top": 27,
 											"width": 65.0126953125,
 											"height": 13,
-											"text": "lab1.base.FishNoWay"
+											"text": "lab1.Pattern_Strategy.FishNoWay"
 										},
 										{
 											"_type": "LabelView",
@@ -4390,7 +4390,7 @@
 											"top": 62,
 											"width": 116.07958984375,
 											"height": 13,
-											"text": "lab1.base.FishWithFishingRod"
+											"text": "lab1.Pattern_Strategy.FishWithFishingRod"
 										},
 										{
 											"_type": "LabelView",
@@ -4611,7 +4611,7 @@
 											"top": 97,
 											"width": 101.6513671875,
 											"height": 13,
-											"text": "lab1.base.FishWithSpinning"
+											"text": "lab1.Pattern_Strategy.FishWithSpinning"
 										},
 										{
 											"_type": "LabelView",
@@ -4815,7 +4815,7 @@
 											"top": 184.5,
 											"width": 19.4873046875,
 											"height": 13,
-											"text": "lab1.base.test"
+											"text": "lab1.Pattern_Strategy.test"
 										},
 										{
 											"_type": "LabelView",
@@ -5743,7 +5743,7 @@
 											"top": 50,
 											"width": 82.3544921875,
 											"height": 13,
-											"text": "lab1.base.FishBehavior"
+											"text": "lab1.Pattern_Strategy.FishBehavior"
 										},
 										{
 											"_type": "LabelView",
@@ -5929,7 +5929,7 @@
 											"top": 106,
 											"width": 65.74267578125,
 											"height": 13,
-											"text": "lab1.base.Fisherman"
+											"text": "lab1.Pattern_Strategy.Fisherman"
 										},
 										{
 											"_type": "LabelView",
@@ -6011,7 +6011,7 @@
 											"top": 5,
 											"width": 295.15966796875,
 											"height": 13,
-											"text": "«constructor»+lab1.base.Fisherman()",
+											"text": "«constructor»+lab1.Pattern_Strategy.Fisherman()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -6062,7 +6062,7 @@
 											"top": 50,
 											"width": 295.15966796875,
 											"height": 13,
-											"text": "+setFishBehavior(fishBehavior: lab1.base.FishBehavior): void",
+											"text": "+setFishBehavior(fishBehavior: lab1.Pattern_Strategy.FishBehavior): void",
 											"horizontalAlignment": 0
 										}
 									],
@@ -6165,7 +6165,7 @@
 											"top": 161,
 											"width": 153.12451171875,
 											"height": 13,
-											"text": "lab1.base.FishermanWhatCantFish"
+											"text": "lab1.Pattern_Strategy.FishermanWhatCantFish"
 										},
 										{
 											"_type": "LabelView",
@@ -6247,7 +6247,7 @@
 											"top": 5,
 											"width": 238.77978515625,
 											"height": 13,
-											"text": "«constructor»+lab1.base.FishermanWhatCantFish()",
+											"text": "«constructor»+lab1.Pattern_Strategy.FishermanWhatCantFish()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -6367,7 +6367,7 @@
 											"top": 161,
 											"width": 165.267578125,
 											"height": 13,
-											"text": "lab1.base.FishermanWithFishingRod"
+											"text": "lab1.Pattern_Strategy.FishermanWithFishingRod"
 										},
 										{
 											"_type": "LabelView",
@@ -6449,7 +6449,7 @@
 											"top": 5,
 											"width": 248.17431640625,
 											"height": 13,
-											"text": "«constructor»+lab1.base.FishermanWithFishingRod()",
+											"text": "«constructor»+lab1.Pattern_Strategy.FishermanWithFishingRod()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -6569,7 +6569,7 @@
 											"top": 161,
 											"width": 149.37939453125,
 											"height": 13,
-											"text": "lab1.base.FishermanWithSpinning"
+											"text": "lab1.Pattern_Strategy.FishermanWithSpinning"
 										},
 										{
 											"_type": "LabelView",
@@ -6651,7 +6651,7 @@
 											"top": 5,
 											"width": 233.01611328125,
 											"height": 13,
-											"text": "«constructor»+lab1.base.FishermanWithSpinning()",
+											"text": "«constructor»+lab1.Pattern_Strategy.FishermanWithSpinning()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -6771,7 +6771,7 @@
 											"top": 106,
 											"width": 70.30029296875,
 											"height": 13,
-											"text": "lab1.base.FishNoWay"
+											"text": "lab1.Pattern_Strategy.FishNoWay"
 										},
 										{
 											"_type": "LabelView",
@@ -6956,7 +6956,7 @@
 											"top": 106,
 											"width": 126.24853515625,
 											"height": 13,
-											"text": "lab1.base.FishWithFishingRod"
+											"text": "lab1.Pattern_Strategy.FishWithFishingRod"
 										},
 										{
 											"_type": "LabelView",
@@ -7177,7 +7177,7 @@
 											"top": 106,
 											"width": 110.3603515625,
 											"height": 13,
-											"text": "lab1.base.FishWithSpinning"
+											"text": "lab1.Pattern_Strategy.FishWithSpinning"
 										},
 										{
 											"_type": "LabelView",
@@ -7381,7 +7381,7 @@
 											"top": 39,
 											"width": 23.1181640625,
 											"height": 13,
-											"text": "lab1.base.test"
+											"text": "lab1.Pattern_Strategy.test"
 										},
 										{
 											"_type": "LabelView",
