@@ -17,6 +17,6 @@ public class AmericanAdapter implements Measuring{
         }
 
         public double getSize() {
-            return americanMeasure.getSizeInFeet() / 0.0033;
+            return americanMeasure.getSizeInFeet() * 0.0033;
         }
 }

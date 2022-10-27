@@ -3,8 +3,6 @@ package lab4.watch;
 
 public class test {
     public static void main(String[] args) {
-//        AnalogWatch analogWatch = new AnalogWatch();
-//        analogWatch.time(analogWatch.angle);
         System.out.println("Цифровые часы показывают:");
         DigitalClock digitalClock = new DigitalClock();
         digitalClock.ptime();

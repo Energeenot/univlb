@@ -3,7 +3,6 @@ package lab4.PatternAdapter;
 import java.util.Random;
 
 public class PlusMeasure implements Measuring{
-    Random random = new Random();
 
     @Override
     public double getTemperature() {
