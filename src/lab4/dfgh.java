@@ -1,7 +1,7 @@
 package lab4;
 
 import java.util.Scanner;
-
+// прога для архитектур вычислительных систем
 public class dfgh {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
