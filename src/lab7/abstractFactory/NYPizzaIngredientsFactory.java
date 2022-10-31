@@ -3,7 +3,7 @@ package lab7.abstractFactory;
 public class NYPizzaIngredientsFactory implements PizzaIngredientFactory{
     @Override
     public Dough createDough() {
-        return new ThickCrustDough();
+        return new ThinCrustDough();
     }
 
     @Override
