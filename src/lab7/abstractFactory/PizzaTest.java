@@ -2,7 +2,7 @@ package lab7.abstractFactory;
 
 public class PizzaTest {
     public static void main(String[] args) {
-        PizzaStore NYPizzaStore = new NYPizzaStore();
+        PizzaStore NYPizzaStore = new NYPizzaStore(); //переменные с малленькой
         PizzaStore ChicagoStore = new ChicagoPizzaStore();
 
         Pizza pizza = NYPizzaStore.orderPizza("cheese");
